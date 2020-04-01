@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "currentHierType": "productType", "parentHier": null, "author": "lipsa" }
+    { "currentHierType": "productType", "parentHier": null, "hierarchies" : [ {"id" : 1 , "value" : "pd1"}, {"id" : 2 , "value" : "pd2"} ]  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
