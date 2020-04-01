@@ -1,6 +1,7 @@
 {
   "posts": [
-    { "currentHierType": "productType", "parentHier": null, "hierarchies":["id": 1,"value": "pd1"]}
+    { "currentHierType": "productType", "parentHier": null, "hierarchies":[ "Id": 0,
+        "ApimId": "574eb044cd7c320600975d85"]}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
